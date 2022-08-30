@@ -1,0 +1,19 @@
+{
+  "name": "clase-29-09-22",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calculadora.js",
+  "scripts": {
+    "test:sumar":"node test/testSumar.js",
+    "test:restar":"node test/testRestar.js",
+    "test:dividir":"node test/testDividir.js",
+    "test:multiplicar":"node test/testMultiplicar.js",
+    "start":""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
